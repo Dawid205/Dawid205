@@ -1,1 +1,1 @@
-Gra działa
+b
